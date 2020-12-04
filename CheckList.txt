@@ -1,0 +1,12 @@
+------ General ------
+
+1-npx create-react-app
+2-npm install --save bootstrap
+3-setting-up of index.html
+4-Create Components
+5-npm install --save react-router-dom
+6-Creates Routers
+
+------ NavBar ------
+
+1-import Link from react-router-dom
